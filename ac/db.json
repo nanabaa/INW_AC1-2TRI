@@ -4,21 +4,21 @@
   "id": 1,
   "descricao": "Maiô",
   "estoque": 10,
-  "valor": 40,
+  "valor": "R$40",
   "imagem": "fotos/produto2.jpg"
   },
   {
   "id": 2,
   "descricao": "Biquíni",
   "estoque": 10,
-  "valor": 35,
+  "valor": "R$35",
   "imagem" : "fotos/produto1.jpg"
   },
   {
   "id": 3,
   "descricao": "Saída de praia",
   "estoque": 10,
-  "valor": 50,
+  "valor": "R$50",
   "imagem" : "fotos/produto3.webp"
   }
   ]
